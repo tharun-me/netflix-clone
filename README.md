@@ -32,7 +32,7 @@ A **Netflix Clone** built using **HTML**, **CSS**, and **JavaScript** during a 1
 ## 🔗 Live Demo
 
 You can view the live version of this project here:  
-[Add your hosted project link here]
+[Live DEMO of Netflix Clone](https://tharun-me.github.io/netflix-clone/)
 
 ---
 
